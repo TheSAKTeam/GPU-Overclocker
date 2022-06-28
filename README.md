@@ -31,7 +31,6 @@ Disclaimer: AMD Graphics not supported.
 
 Developer: Shakir
 Designer : Ariyan
-Text Writer:kay
 
 This is a Bat file but i converted it to exe so anyone wont able to steal 
 codes.
